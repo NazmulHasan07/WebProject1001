@@ -20,7 +20,8 @@ public class BookInfo {
 	    System.out.println("      Olivia");
 	    System.out.print("Has a movie:");
 	    System.out.println("                 No");
-
+		
+	     System.out.println("The story is based on the bank of  beautiful Swift River Valley.");
 	}
 
 }
