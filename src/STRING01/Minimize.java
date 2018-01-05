@@ -1,3 +1,8 @@
+//**************************************************
+// Minimize.java   Author: Nazmul Hasan
+// Demonstrates how to use string.
+//**************************************************
+
 package STRING01;
 
 import  java.io.*; 

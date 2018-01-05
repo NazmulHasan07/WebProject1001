@@ -1,3 +1,8 @@
+//**************************************************
+// EnterNumbers.java   Author: Nazmul Hasan
+// Demonstrates how to use string.
+//**************************************************
+
 package STRING02;
 
 import  java.io.*; 

@@ -1,3 +1,9 @@
+//**************************************************
+// RefString.java   Author: Nazmul Hasan
+// Demonstrates how to use string.
+//**************************************************
+
+
 package STRING04;
 
 public class RefString {

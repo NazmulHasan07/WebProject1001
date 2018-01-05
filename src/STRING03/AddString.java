@@ -1,3 +1,9 @@
+//**************************************************
+// AddString.java   Author: Nazmul Hasan
+// Demonstrates how to use string.
+//**************************************************
+
+
 package STRING03;
 
 public class AddString {

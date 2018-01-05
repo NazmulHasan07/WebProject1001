@@ -1,3 +1,8 @@
+//**************************************************
+// AnotherRefString.java   Author: Nazmul Hasan
+// Demonstrates how to use string.
+//**************************************************
+
 package STRING05;
 
 class Name {
